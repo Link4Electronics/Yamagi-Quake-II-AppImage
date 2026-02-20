@@ -15,7 +15,7 @@ export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
-quick-sharun /usr/lib/yamagi-quake2/quake2 /usr/lib/yamagi-quake2/q2ded /usr/lib/yamagi-quake2/*
+quick-sharun /usr/bin/yamagi-quake2 /usr/bin/yamagi-q2ded /usr/lib/yamagi-quake2/*
 
 # Additional changes can be done in between here
 
