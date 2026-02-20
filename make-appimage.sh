@@ -11,7 +11,8 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=/usr/share/pixmaps/yamagi-quake2.png
 export DESKTOP=/usr/share/applications/yamagi-quake2.desktop
 export STARTUPWMCLASS=
-export OPENGL=1
+export DEPLOY_OPENGL=1
+export DEPLOY_VULKAN=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/yamagi-quake2 /usr/bin/yamagi-q2ded /usr/lib/yamagi-quake2/*
