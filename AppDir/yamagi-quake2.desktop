@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Yamagi Quake II
+Icon=yamagi-quake2
+Exec=quake2
+StartupWMClass=
+Categories=Game;Shooter;
+Terminal=false
+StartupNotify=false
